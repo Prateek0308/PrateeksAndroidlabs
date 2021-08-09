@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week-10" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week9-xml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ahla0004" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/week9-JSON" vcs="Git" />
   </component>
 </project>
